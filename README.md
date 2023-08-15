@@ -5,7 +5,7 @@ Prototyping on some private repositorys
 Including
 
 - C# .Net and Typescript
-- JS
+- React TS/JS
 - WPF (no more)
 - Unity (Prototyping game ideas)
 - Some AI stuff
