@@ -1,8 +1,17 @@
-👋 Hi, I’m @afoni95
+# 👋 Hi, I’m @afoni95
 
-Prototyping on some private repositorys 
+ 💼 Currently React developer
+ 
+ Im always Prototyping on some private repositorys
 
-Including
+## My work 
+
+[WhatsCook'n](https://whatscookn.cloud/)
+
+[WhatsCookn Domain Status ](https://status.whatscookn.cloud/)
+
+
+## My knowledge
 
 - C# .Net and Typescript
 - React TS/JS
