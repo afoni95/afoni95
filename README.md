@@ -8,7 +8,7 @@
 
 [WhatsCook'n](https://whatscookn.cloud/)
 
-[WhatsCookn Domain Status ](https://status.whatscookn.cloud/)
+[WhatsCookn Domain Status (CERT known issue) ](https://status.whatscookn.cloud/)
 
 
 ## My knowledge
